@@ -1,8 +1,8 @@
 {
-  "result": "ok",
-  "app": "https://www.dropbox.com/s/5aehke82678smr6/novie_TV_v4.0.apk?dl=0",
+  "result": "update",
+  "app": "http://www.mediafire.com/file/bxysza7os5vk64u/NovieTv_v7-beta.apk/file",
   "url": "https://dutafilm.shop/",
-  "version":"6",
+  "version":"7",
   "attributes": {
     "title": "JSON:API paints my bikeshed!",
     "body": "The shortest article. Ever.",
